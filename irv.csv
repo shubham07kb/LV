@@ -20,4 +20,4 @@ sub-pillar,/blog/2024/02/21/what-can-automated-email-marketing-do-for-your-deale
 sub-pillar,/blog/2024/01/11/build-your-brand-and-boost-business-with-search-engine-optimization,s
 sub-pillar,/blog/2023/12/11/the-power-of-targeted-digital-advertising-for-rv-dealers-importance-benefits-best-practices,s
 sub-pillar,/blog/2024/03/20/managing-your-dealerships-reputation-ensure-success-through-modern-word-of-mouth-marketing,s
-blog,/^\/blog/,m
+blog,^/blog,m
