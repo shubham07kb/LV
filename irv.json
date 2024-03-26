@@ -1,27 +1,90 @@
 [
-    {
-        "path": "/rv-dealership-websites",
-        "group": "sips",
-        "type": "s"
-    },
-    {
-        "path": "/blog/2023/12/07/identify-prioritize-your-digital-marketing-channels-in-the-modern-market",
-        "group": "sub-pillar",
-        "type": "s"
-    },
-    {
-        "path": "/mobile-websites",
-        "group": "sips",
-        "type": "s"
-    },
-    {
-        "path": "/why-interactrv",
-        "group": "sips",
-        "type": "s"
-    },
-    {
-        "path": "/google-vehicle-listings",
-        "group": "sips",
-        "type": "s"
-    }
+	{
+		"group": "sips",
+		"url": "https://interactrv.com/rv-dealership-websites"
+	},
+	{
+		"group": "sips",
+		"url": "https://interactrv.com/mobile-websites"
+	},
+	{
+		"group": "sips",
+		"url": "https://interactrv.com/rv-digital-marketing-solutions"
+	},
+	{
+		"group": "sips",
+		"url": "https://interactrv.com/rv-library"
+	},
+	{
+		"group": "sips",
+		"url": "https://interactrv.com/prospecting-crm"
+	},
+	{
+		"group": "sips",
+		"url": "https://interactrv.com/industry-relationships"
+	},
+	{
+		"group": "sips",
+		"url": "https://interactrv.com/video-virtual-tours"
+	},
+	{
+		"group": "sips",
+		"url": "https://interactrv.com/call-tracking"
+	},
+	{
+		"group": "sips",
+		"url": "https://interactrv.com/reporting-analytics"
+	},
+	{
+		"group": "sips",
+		"url": "https://interactrv.com/email-marketing-for-rv-dealerships"
+	},
+	{
+		"group": "sips",
+		"url": "https://interactrv.com/social-media"
+	},
+	{
+		"group": "sips",
+		"url": "https://interactrv.com/multi-locations"
+	},
+	{
+		"group": "sips",
+		"url": "https://interactrv.com/why-interactrv"
+	},
+	{
+		"group": "sips",
+		"url": "https://interactrv.com/google-vehicle-listings"
+	},
+	{
+		"group": "sips",
+		"url": "https://interactrv.com/automated-email-marketing"
+	},
+	{
+		"group": "sips",
+		"url": "https://interactrv.com/targeted-digital-advertising"
+	},
+	{
+		"group": "sub-pillar",
+		"url": "https://interactrv.com/blog/2023/12/07/identify-prioritize-your-digital-marketing-channels-in-the-modern-market"
+	},
+	{
+		"group": "sub-pillar",
+		"url": "https://interactrv.com/blog/2024/02/21/what-can-automated-email-marketing-do-for-your-dealership"
+	},
+	{
+		"group": "sub-pillar",
+		"url": "https://interactrv.com/blog/2024/01/11/build-your-brand-and-boost-business-with-search-engine-optimization"
+	},
+	{
+		"group": "sub-pillar",
+		"url": "https://interactrv.com/blog/2023/12/11/the-power-of-targeted-digital-advertising-for-rv-dealers-importance-benefits-best-practices"
+	},
+	{
+		"group": "sub-pillar",
+		"url": "https://interactrv.com/blog/2024/03/20/managing-your-dealerships-reputation-ensure-success-through-modern-word-of-mouth-marketing"
+	},
+	{
+		"group": "blog",
+		"url": "https://interactrv.com/blog"
+	}
 ]
