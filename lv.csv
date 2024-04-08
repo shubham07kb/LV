@@ -1,1 +1,10 @@
-
+type,group,url
+content-group,sips,https://www.leadventure.com/products
+content-group,sips,https://www.leadventure.com/digital-storefronts
+content-group,sips,https://www.leadventure.com/digital-marketing
+content-group,sips,https://www.leadventure.com/digital-retailing-tools
+content-group,sips,https://www.leadventure.com/dealer-management-software
+content-group,sips,https://www.leadventure.com/inventory-merchandising
+content-group,sips,https://www.leadventure.com/oem-programs
+content-group,sips,https://www.leadventure.com/parts-accessory
+conversion,demo,https://www.leadventure.com/contact-us/thank-you/
