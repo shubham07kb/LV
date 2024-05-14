@@ -13,12 +13,13 @@ To add a new group of conversions, follow these steps. This guide assumes you're
 5. Go to `Data Display` -> `Custom Definitions`.
 6. Click on `Custom Metrics` -> `Create Custom Metric`.
 7. Fill in the fields as explained below and save them.
-   ```***Note:*** Like for above Step 4 we use 'Content' so `{group_name}` will be 'Content', you can take example of previously created metrics.```
 
-   **Metric Name:** `{group_name}` Form Submission Conversion
-   **Description:** This metric aggregates the count for the `{group_name}` forms submission conversion event.
-   **Parameter Name:** ds_count_`{group_name}`_form_submit
-   **Unit of Measurement:** Standard
+   ***Note:*** Like for above Step 4 we use 'Content' so `{group_name}` will be 'content', you can take examples of previously created metrics.
+
+   - **Metric Name:** `{group_name}` Form Submission Conversion
+   - **Description:** This metric aggregates the count for the `{group_name}` forms submission conversion event.
+   - **Parameter Name:** ds_count_`{group_name}`_form_submit
+   - **Unit of Measurement:** Standard
 
 ### In Looker Studio:
 1. Go to the report of the property for which the new group is added and click on `Edit`.
