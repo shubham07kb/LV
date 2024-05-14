@@ -47,4 +47,3 @@ To add a new Content Group, follow these steps. This guide assumes you're adding
 2. Select the New Chart, on the right side options will come for `Setup` and `Style`. Go to `Setup`.
 3. Below Setup, Nearly at the bottom, You will find filters, `Remove` the previous filter, if any, and click on `Add A Filter` and `select` the filter name, which you have created before.
 4. Now you can go back from this setting or directly click on `View` at the top right. You can see changes. You have to design the page here to customize the report here.
-
